@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from PL2_sprout (QKQ1.190828.002).
+## are from B2N_sprout (QKQ1.190828.002).
 
 # ADSP
 vendor/bin/adsprpcd
